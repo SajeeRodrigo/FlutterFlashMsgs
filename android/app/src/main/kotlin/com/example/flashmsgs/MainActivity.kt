@@ -1,0 +1,6 @@
+package com.example.flashmsgs
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
